@@ -1,0 +1,15 @@
+{
+  "name": "n3uron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bits.js",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
